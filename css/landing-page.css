@@ -39,7 +39,7 @@ h1{
     text-align: center;
     font-weight: 500;
     color: #efefef;
-     <!-- background: url(../img/luodi_Cover.png) no-repeat center center ;-->
+    background: url(../img/cover.png) no-repeat center center ;
     background-size: cover;
 }
 
